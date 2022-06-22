@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dhunu
+- 👋 Hi, I’m Angel.
 - 👀 I’m interested in web and mobile development.
 - 🌱 I’m currently learning web development @ Masai.
 - 💞️ I’m looking to collaborate on none
