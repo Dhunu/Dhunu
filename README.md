@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhunu
-- 👀 I’m interested in web ,mobile development.
-- 🌱 I’m currently learning data science.
+- 👀 I’m interested in web and mobile development.
+- 🌱 I’m currently learning web development @ Masai.
 - 💞️ I’m looking to collaborate on none
 - 📫 How to reach me @ angelsaikia333@gmail.com 
 
