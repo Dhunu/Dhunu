@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=dhunu&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 I am working on a Java backend project using the Spring framework.<br>
 
@@ -18,5 +20,3 @@ I am working on a Java backend project using the Spring framework.<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=dhunu&icon=0&color=0)](https://visitcount.itsvg.in)
