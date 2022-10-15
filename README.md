@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=dhunu&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://gpvc.arturio.dev/dhunu)in)
 
 # 💫 About Me:
 I am working on a Java backend project using the Spring framework.<br>
