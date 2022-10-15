@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/dhunu)in)
+![Profile views](https://gpvc.arturio.dev/dhunu)
 
 # 💫 About Me:
 I am working on a Java backend project using the Spring framework.<br>
