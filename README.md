@@ -20,7 +20,7 @@ I am working on a Java backend project using the Spring framework.<br>
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dhunu)](https://github.com/Dhunu/github-profile-trophy)
 
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Dhunu&bg_color=b9ccf8&color=0a2299&line=5fb3dd&point=2500e0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=dhunu&bg_color=ffffff&color=000000&line=52f3ff&point=143bff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
