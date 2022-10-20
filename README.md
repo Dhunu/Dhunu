@@ -18,7 +18,7 @@ I am working on a Java backend project using the Spring framework.<br>
 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhunu)](https://github.com/dhunu/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dhunu)](https://github.com/Dhunu/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
