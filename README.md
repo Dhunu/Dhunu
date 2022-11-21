@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/dhunu)
 
 # 💫 About Me:
-I am an aspiring Java backend developer learning spring framework currently.<br>
+I am an aspiring Java backend developer currently learning spring framework.<br>
 
 
 ## 🌐 Socials:
