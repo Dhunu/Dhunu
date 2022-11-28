@@ -15,7 +15,6 @@ I am an aspiring Java backend developer currently learning spring framework.<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhunu&layout=compact)](https://github.com/dhunu/github-readme-stats)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dhunu&theme=dark&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhunu)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🏆 GitHub Trophies
