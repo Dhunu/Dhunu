@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/dhunu)
+![](https://komarev.com/ghpvc/?username=dhunu)
 
 # 💫 About Me:
 I am an aspiring Java backend developer currently learning spring framework.<br>
