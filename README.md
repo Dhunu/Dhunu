@@ -32,7 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhunu&show_icons=true&locale=en" alt="dhunu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhunu&" alt="dhunu" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dhunu&theme=dark)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dhunu&bg_color=000000&color=5cb8ff&line=208bfe&point=8bfee7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
