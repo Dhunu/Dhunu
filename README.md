@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">A aspiring developer from India, specially trained in Java backend.</h3>
 
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhunu&label=Profile%20views&color=0e75b6&style=flat" alt="dhunu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhunu" alt="dhunu" /></a> </p>
@@ -35,11 +38,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dhunu&theme=dark)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dhunu&bg_color=000000&color=5cb8ff&line=208bfe&point=8bfee7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img
-  src="https://github.com/dhunu/Dhunu/blob/main/images/stat.svg"
-  alt="Angel's WakaTime Activity"
-/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
