@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhunu" alt="dhunu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/angelsaikia1" target="blank"><img src="https://img.shields.io/twitter/follow/angelsaikia1?logo=twitter&style=for-the-badge" alt="angelsaikia1" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://dhunu.github.io/](https://dhunu.github.io/)
 
 - 💬 Ask me about **Java, HTML, CSS, Javascript, Springboot**
