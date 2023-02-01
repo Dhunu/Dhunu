@@ -41,13 +41,13 @@
 
 <div style="display=flex; flex-direction=row">
 
-  <img height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhunu&layout=compact&theme=dark"/>
+  <img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhunu&layout=compact&theme=dark"/>
   
-  <img height=200px src="https://github-readme-stats.vercel.app/api?username=dhunu&show_icons=true&theme=dark"/>
+  <img height=180px src="https://github-readme-stats.vercel.app/api?username=dhunu&show_icons=true&theme=dark"/>
   
-  <img height=200px src="https://streak-stats.demolab.com/?user=dhunu&theme=dark"/>
+  <img height=180px src="https://streak-stats.demolab.com/?user=dhunu&theme=dark"/>
   
-  <img height=200px src="https://github-readme-stats.vercel.app/api/wakatime?username=dhunu&theme=dark"/>
+  <img height=180px src="https://github-readme-stats.vercel.app/api/wakatime?username=dhunu&theme=dark"/>
 
 </div>
 
