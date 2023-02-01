@@ -29,9 +29,9 @@
 
 <div style="display="flex"; flex-direction="row";">
   
-  <img width="47%" height="auto" src="https://youtube-stats-card.vercel.app/api?channelid=UCb-X45E2VQk6D55xtgc2i4Q&theme=dark"/>
+  <img width="49%" height="auto" src="https://youtube-stats-card.vercel.app/api?channelid=UCb-X45E2VQk6D55xtgc2i4Q&theme=dark"/>
 
-  <img height="auto" width="45%" src="./Twitter_Stats.svg"/>
+  <img height="auto" width="47%" src="./Twitter_Stats.svg"/>
   
 </div>
 
