@@ -1,0 +1,48 @@
+name: Twitter Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  "0 * * * *"
+
+jobs:
+  twitterStats:
+
+    runs-on: ubuntu-latest
+
+    steps:
+     - uses: actions/checkout@v2
+     - uses: actions/setup-node@master
+       with:
+        node_version: 14
+    
+     - name: Clone Github Readme Stats repo
+       uses: actions/checkout@v2
+       with:
+        repository: abh80/github-readme-stats
+        path: temp/
+    
+     - name: Install modules
+       run: cd temp && npm install
+         
+     - name: Run main script
+       run: node ./temp/src/twitter/index.js
+       env: 
+        twitter_username: ${{ secrets.TWITTER_USERNAME }}
+        token: ${{ secrets.TWITTER_TOKEN }}
+     
+     - name: Remove Temp dir
+       run: rm -rf temp
+       
+     - name: Update and Commit
+       run: |
+          git config --local user.name "Github Actions"
+          git config --local user.email "action@github.com"
+          git add -A
+          git commit -m "Update Twitter Stats" --allow-empty
+          
+     - name: Push to Github
+       uses: ad-m/github-push-action@master
+       with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
