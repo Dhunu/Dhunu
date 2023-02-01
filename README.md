@@ -27,7 +27,7 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/ghostknight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ghostknight" height="30" width="40" /></a>
 </p>
 
-[![Dhyey's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCb-X45E2VQk6D55xtgc2i4Q)](https://www.youtube.com/channel/UCb-X45E2VQk6D55xtgc2i4Q)
+[![Dhyey's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCb-X45E2VQk6D55xtgc2i4Q&theme=dark)](https://www.youtube.com/channel/UCb-X45E2VQk6D55xtgc2i4Q)
 
 <img src="./Twitter_Stats.svg"/>
 
