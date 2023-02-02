@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhunu" alt="dhunu" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://dhunu.github.io/](https://dhunu.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://dhunu.github.io/)
 
-- 💬 Ask me about **Java, HTML, CSS, Javascript, Springboot**
+- 💬 Ask me about **Java, SQL, Hibernate, Spring Framework, HTML, CSS, Javascript, **
 
 - 📫 How to reach me **angelsaikia333@gmail.com**
 
