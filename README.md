@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhunu" alt="dhunu" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://dhunu.github.io/)
+- 👨‍💻 All of my projects are available at [**Portfolio**](https://dhunu.github.io/)
 
-- 💬 Ask me about **Java, SQL, Hibernate, Spring Framework, HTML, CSS, Javascript, **
+- 💬 Ask me about **Java, SQL, Hibernate, Spring Framework, HTML, CSS, Javascript**
 
 - 📫 How to reach me **angelsaikia333@gmail.com**
 
-- 📄 Know about my experiences [Resume](http://bit.ly/3I3Nuw1)
+- 📄 Know about my experiences [**Resume**](http://bit.ly/3I3Nuw1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
