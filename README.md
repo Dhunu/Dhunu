@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
 
 <!--START_SECTION:waka-->
-
-```text
-From: 28 January 2023 - To: 04 February 2023
-
-Other            41 hrs 18 mins  ████████████████████████░   96.52 %
-```
-
 <!--END_SECTION:waka-->
 
 
