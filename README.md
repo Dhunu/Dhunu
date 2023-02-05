@@ -5,9 +5,7 @@
 ```text
 From: 14 October 2022 - To: 04 February 2023
 
-Total Time: 416 hrs 35 mins
-
-Other            401 hrs 47 mins >>>>>>>>>>>>>>>>>>>>>>>>-   96.44 %
+Other            401 hrs 47 mins ████████████████████████░   96.44 %
 ```
 
 <!--END_SECTION:waka-->
