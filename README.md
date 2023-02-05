@@ -3,9 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 October 2022 - To: 04 February 2023
+From: 28 January 2023 - To: 04 February 2023
 
-Other            401 hrs 47 mins ████████████████████████░   96.44 %
+Other            41 hrs 18 mins  ████████████████████████░   96.52 %
 ```
 
 <!--END_SECTION:waka-->
