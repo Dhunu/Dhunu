@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h3 align="center">An aspiring developer from India, specially trained in Java backend.</h3>
 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
