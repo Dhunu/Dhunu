@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 14 October 2022 - To: 04 February 2023
+
+Total Time: 416 hrs 35 mins
+
+Other            401 hrs 47 mins >>>>>>>>>>>>>>>>>>>>>>>>-   96.44 %
+```
+
 <!--END_SECTION:waka-->
-
-<h3 align="center">An aspiring developer from India, specially trained in Java backend.</h3>
-
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhunu&label=Profile%20views&color=0e75b6&style=flat" alt="dhunu" /> </p>
