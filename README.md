@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [**Resume**](http://bit.ly/3I3Nuw1)
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/angelsaikia1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="angelsaikia1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/angel-saikia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/angel-saikia/" height="30" width="40" /></a>
@@ -31,10 +31,10 @@
   
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Codding stats:</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-420%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-420%20hrs%2035%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -90,7 +90,7 @@ HTML                     10 mins             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dhunu/Dhunu/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/02/2023 14:15:36 UTC
+ Last Updated on 07/02/2023 13:22:05 UTC
 <!--END_SECTION:waka-->
 
 
