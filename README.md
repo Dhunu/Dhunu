@@ -34,7 +34,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-420%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-420%20hrs%2050%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -90,7 +90,7 @@ HTML                     10 mins             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dhunu/Dhunu/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/02/2023 13:22:05 UTC
+ Last Updated on 07/02/2023 14:15:36 UTC
 <!--END_SECTION:waka-->
 
 
