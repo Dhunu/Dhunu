@@ -44,9 +44,9 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 11 Public Repositories 
  > 
-> 🔑 3 Private Repositories  
+> 🔑 2 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -90,7 +90,7 @@ Markdown                 1 min               ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dhunu/Dhunu/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/02/2023 04:09:49 UTC
+ Last Updated on 10/02/2023 04:40:06 UTC
 <!--END_SECTION:waka-->
 
 
