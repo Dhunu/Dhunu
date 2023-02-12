@@ -34,7 +34,7 @@
 <h2 align="left">Codding stats:</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-435%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%208%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -90,7 +90,7 @@ CLASS                    0 secs              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dhunu/Dhunu/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/02/2023 13:14:54 UTC
+ Last Updated on 12/02/2023 13:35:08 UTC
 <!--END_SECTION:waka-->
 
 
