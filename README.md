@@ -40,7 +40,7 @@
 
 > 🏆 118 Contributions in the Year 2023
  > 
-> 📦 6.7 kB Used in GitHub's Storage 
+> 📦 6.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -90,7 +90,7 @@ Markdown                 1 min               ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dhunu/Dhunu/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/02/2023 07:10:26 UTC
+ Last Updated on 13/02/2023 07:34:39 UTC
 <!--END_SECTION:waka-->
 
 
