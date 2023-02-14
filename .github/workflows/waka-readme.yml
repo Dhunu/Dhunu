@@ -21,3 +21,8 @@ jobs:
           SHOW_EDITORS: false
           SHOW_OS: false
           SHOW_LANGUAGE_PER_REPO: false
+          SHOW_TIME: true
+          LANG_COUNT: 5
+          SHOW_TITLE: true
+          SHOW_MASKED_TIME: true
+          TIME_RANGE: all_time
