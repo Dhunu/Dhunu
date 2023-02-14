@@ -34,51 +34,6 @@
 <h2 align="left">Codding stats:</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2059%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 122 Contributions in the Year 2023
- > 
-> 📦 6.8 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning       78 commits       ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-🌆 Daytime      137 commits       ██████████░░░░░░░░░░░░░░░   42.15 % 
-🌃 Evening      108 commits       ████████░░░░░░░░░░░░░░░░░   33.23 % 
-🌙 Night          2 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Java                     10 hrs 51 mins      ████████████████░░░░░░░░░   66.51 % 
-Other                    5 hrs               ███████░░░░░░░░░░░░░░░░░░   30.64 % 
-Text                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-
-```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Dhunu/Dhunu/main/charts/bar_graph.png) 
-
-
- Last Updated on 14/02/2023 17:46:41 UTC
 <!--END_SECTION:waka-->
 
 
