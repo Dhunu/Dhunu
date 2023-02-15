@@ -36,28 +36,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-438%20hrs%2055%20mins-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 123 Contributions in the Year 2023
- > 
-> 📦 6.8 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning       80 commits       ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-🌆 Daytime      139 commits       ██████████░░░░░░░░░░░░░░░   42.12 % 
-🌃 Evening      109 commits       ████████░░░░░░░░░░░░░░░░░   33.03 % 
-🌙 Night          2 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-
-```
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-236-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -73,12 +52,7 @@ Markdown                 1 min               ░░░░░░░░░░░�
 
 ```
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Dhunu/Dhunu/main/charts/bar_graph.png) 
-
-
- Last Updated on 15/02/2023 06:40:11 UTC
 <!--END_SECTION:waka-->
 
 
