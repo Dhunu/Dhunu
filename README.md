@@ -31,7 +31,7 @@
   
 </div>
 
-<h2 align="left">Codding stats:</h2>
+<h2 align="left">Wakatime Stats:</h2>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%2026%20mins-blue)
@@ -60,13 +60,15 @@ HTML                     9 mins              ░░░░░░░░░░░�
 
 <div style="display=flex; flex-direction=row">
 
-  <img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhunu&layout=compact&theme=dark"/>
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
   
-<!--   <img height=180px src="https://github-readme-stats.vercel.app/api?username=dhunu&show_icons=true&theme=dark"/> -->
+  <img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhunu&layout=compact&theme=vision-friendly-dark"/>
   
-  <img height=180px src="https://streak-stats.demolab.com/?user=dhunu&theme=dark"/>
+  <img height=180px src="https://github-readme-stats.vercel.app/api?username=dhunu&show_icons=true&theme=vision-friendly-dark"/>
   
-<!--   <img height=180px src="https://github-readme-stats.vercel.app/api/wakatime?username=dhunu&theme=dark"/> -->
+  <img height=180px src="https://streak-stats.demolab.com/?user=dhunu&theme=vision-friendly-dark"/>
+  
+<!--   <img height=180px src="https://github-readme-stats.vercel.app/api/wakatime?username=dhunu&theme=vision-friendly-dark"/> -->
 
 </div>
 
