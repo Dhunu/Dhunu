@@ -98,8 +98,12 @@ XML                      3 mins              ░░░░░░░░░░░�
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dhunu&bg_color=000000&color=5cb8ff&line=208bfe&point=8bfee7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### ✍️ Random Dev Quote
+<p align="center">
+<h2> ✍️ Random Dev Quote </h2>
+<!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/> -->
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</p>
 
 
 
