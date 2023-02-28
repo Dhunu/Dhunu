@@ -21,8 +21,6 @@ jobs:
           SHOW_EDITORS: false
           SHOW_OS: false
           SHOW_LANGUAGE_PER_REPO: false
-          SHOW_TIMELINE: false
-          SHOW_GITHUB_STATS: false
           SHOW_UPDATED_DATE: "False"
           SHOW_COMMIT: "False"
           SHOW_SHORT_INFO: "False"
