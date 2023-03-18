@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Angel Saikia</h1>
 <h3 align="center">A motivated Java Developer from India.</h3>
 
-
-
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhunu" alt="dhunu" /></a> </p> -->
-
 - 🔭 I’m currently working on **Spring Boot CRUD App !**
 
 - 👨‍💻 All of my projects are available at [**Portfolio**](https://dhunu.github.io/)
@@ -90,6 +86,8 @@ Other                    2 hrs 10 mins       ███░░░░░░░░�
   <img height=180px src="https://github-readme-stats.vercel.app/api?username=dhunu&show_icons=true&theme=vision-friendly-dark"/>
   
   <img height=180px src="https://streak-stats.demolab.com/?user=dhunu&theme=vision-friendly-dark"/>
+  
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhunu" alt="dhunu" /></a> </p>
   
 <!--   <img height=180px src="https://github-readme-stats.vercel.app/api/wakatime?username=dhunu&theme=vision-friendly-dark"/> -->
 
