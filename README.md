@@ -55,7 +55,7 @@
 <h2 align="center">Wakatime Stats:</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-695%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-696%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,7 +65,11 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Gradle                   1 min               ████████████████████████░   97.74 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 
