@@ -55,7 +55,7 @@
 <h2 align="center">Wakatime Stats:</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-728%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-724%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
