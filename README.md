@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, SQL, Hibernate, Spring Framework, HTML, CSS, Javascript**
 
-- 📫 How to reach me **angelsaikia333@gmail.com**
+- 📫 How to reach me **developer@angelsaikia.com**
 
 - 📄 Know about my experiences [**Resume**](http://bit.ly/3I3Nuw1)
 
