@@ -1,13 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhunu&label=Profile%20views&color=0e75b6&style=flat" alt="dhunu" />
 
 <h1 align="center">Hi 👋, I'm Angel Saikia</h1>
-<h3 align="center">A motivated Java Developer from India.</h3>
+<h3 align="center">A motivated Full Stack Developer from India.</h3>
 
-- 🔭 I’m currently working on **Spring Boot CRUD App !**
+- 🔭 I’m currently working on **NextJS !**
 
 - 👨‍💻 All of my projects are available at [**Portfolio**](https://www.angelsaikia.com/)
 
-- 💬 Ask me about **Java, SQL, Hibernate, Spring Framework, HTML, CSS, Javascript**
+- 💬 Ask me about **React, Tailwind, Java, SQL, Hibernate, Spring Framework, HTML, CSS, Javascript**
 
 - 📫 How to reach me **developer@angelsaikia.com**
 
