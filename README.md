@@ -29,28 +29,26 @@
   </a>
 </p>
 
+<h2 align="center">Languages: </h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,java,py" />
+  </a>
+</p>
+
 <h2 align="center">My Tech Stacks: </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,css,firebase,hibernate,html,java,js,kotlin,maven,mysql,py" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,firebase,appwrite,hibernate,maven,mysql" />
   </a>
 </p>
 
 <h2 align="center">Tools and Software: </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,idea,netlify,postman,spring" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,prisma,nodejs,netlify,vercel,postman,spring" />
   </a>
 </p>
-
-
-<!-- <div style="display="flex"; flex-direction="row";">
-  
-  <img width="49%" height="auto" src="https://youtube-stats-card.vercel.app/api?channelid=UCb-X45E2VQk6D55xtgc2i4Q&theme=dark"/>
-
-  <img height="auto" width="47%" src="./Twitter_Stats.svg"/>
-  
-</div> -->
 
 <h2 align="center">Wakatime Stats:</h2>
 
@@ -74,33 +72,5 @@ TSConfig                 4 mins              ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-<h2 align="center" >Github Stats: </h2>
-
-<div align="center" style="display=flex; flex-direction=row">
-
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
-  
-  <img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhunu&layout=compact&theme=vision-friendly-dark"/>
-  
-  <img height=180px src="https://github-readme-stats.vercel.app/api?username=dhunu&show_icons=true&theme=vision-friendly-dark"/>
-  
-  <img height=180px src="https://streak-stats.demolab.com/?user=dhunu&theme=vision-friendly-dark"/>
-  
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhunu" alt="dhunu" /></a> </p>
-  
-<!--   <img height=180px src="https://github-readme-stats.vercel.app/api/wakatime?username=dhunu&theme=vision-friendly-dark"/> -->
-
-</div>
-
-[![Angel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhunu&bg_color=000000&color=0a27ff&line=05fffb&point=00b3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-<h2> ✍️ Random Dev Quote </h2>
-<!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/> -->
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</p>
-
 
 
