@@ -3,9 +3,11 @@
 <h1 align="center">Hi 👋, I'm Angel Saikia</h1>
 <h3 align="center">A motivated Full Stack Developer from India.</h3>
 
+- 🧑🏻‍💻 Building [**Safbro**](https://safbro.com/), a learning platform.
+
 - 🔭 I’m currently working on **NextJS !**
 
-- 👨‍💻 All of my projects are available at [**Portfolio**](https://www.angelsaikia.com/)
+- 💻 All of my projects are available at [**Portfolio**](https://www.angelsaikia.com/)
 
 - 💬 Ask me about **React, Tailwind, Java, SQL, Hibernate, Spring Framework, HTML, CSS, Javascript**
 
