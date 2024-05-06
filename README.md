@@ -9,7 +9,7 @@
 
 - 💻 All of my projects are available at [**Portfolio**](https://www.angelsaikia.com/)
 
-- 💬 Ask me about **React, Tailwind, Java, SQL, Hibernate, Spring Framework, HTML, CSS, Javascript**
+- 💬 Ask me about **React, Next.js, Tailwind, Java, SQL, Hibernate, Spring Framework**
 
 - 📫 How to reach me **developer@angelsaikia.com**
 
