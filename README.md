@@ -52,7 +52,13 @@
   </a>
 </p>
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dhunu&theme=highcontrast&disable_animations=false&card_width=1200&card_height=300)](https://git.io/streak-stats)
+
 <h2 align="center">Wakatime Stats:</h2>
+
+
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C416%20hrs%204%20mins-blue)
@@ -80,5 +86,3 @@ Google Calendar          3 hrs 30 mins       ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-
