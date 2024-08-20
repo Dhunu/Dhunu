@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **developer@angelsaikia.com**
 
-- 📄 Know about my experiences [**Resume**](http://bit.ly/3I3Nuw1)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1Ojl6wrmw1r6b4TdnCeq0ZvttJoy2VrhG/view?usp=sharing)
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
