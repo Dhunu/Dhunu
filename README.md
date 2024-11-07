@@ -61,29 +61,11 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C901%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C903%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-CSS                      2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   30.26 % 
-Python                   1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-TypeScript               1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-HTML                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Other                    1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 6 mins        █████████████████████░░░░   82.65 % 
-Google Calendar          1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Cursor                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-```
 
 
 <!--END_SECTION:waka-->
