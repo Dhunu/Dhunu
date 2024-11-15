@@ -67,5 +67,17 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    1 hr                █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Google Calendar          1 hr                █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
