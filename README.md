@@ -61,7 +61,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C905%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C905%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -73,10 +73,12 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr                █████████████████████████   100.00 % 
+Other                    1 hr 2 mins         █████████████████░░░░░░░░   69.26 % 
+TypeScript               27 mins             ████████░░░░░░░░░░░░░░░░░   30.74 % 
 
 🔥 Editors: 
-Google Calendar          1 hr                █████████████████████████   100.00 % 
+Google Calendar          1 hr                █████████████████░░░░░░░░   66.45 % 
+VS Code                  30 mins             ████████░░░░░░░░░░░░░░░░░   33.55 % 
 ```
 
 
