@@ -27,35 +27,16 @@ I'm a results-driven Data Scientist and Analytics Expert, leveraging cutting-edg
 
 ## 🎓 Professional Development
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-items: center; gap: 20px; margin: 0 auto; max-width: 600px;">
-  <div style="background-color: #1a1b27; border-radius: 10px; padding: 20px; width: 100%; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="IIT Madras" style="margin-bottom: 15px;"/>
-    <br/>
-    <strong style="color: #70a5fd; font-size: 1.1em;">Foundation Level - Data Science and Programming</strong>
-    <br/>
-    <em style="color: #c9d1d9;">IIT Madras</em>
-    <br/>
-    <span style="color: #9fef00; font-weight: 500;">2024</span>
-  </div>
-  <div style="background-color: #1a1b27; border-radius: 10px; padding: 20px; width: 100%; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <img src="https://api.iconify.design/vscode-icons:file-type-sql.svg" width="50" height="50" alt="IBM" style="margin-bottom: 15px;"/>
-    <br/>
-    <strong style="color: #70a5fd; font-size: 1.1em;">What is Data Science?</strong>
-    <br/>
-    <em style="color: #c9d1d9;">IBM</em>
-    <br/>
-    <span style="color: #9fef00; font-weight: 500;">2021</span>
-  </div>
-  <div style="background-color: #1a1b27; border-radius: 10px; padding: 20px; width: 100%; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <img src="https://api.iconify.design/vscode-icons:file-type-shell.svg" width="50" height="50" alt="IBM" style="margin-bottom: 15px;"/>
-    <br/>
-    <strong style="color: #70a5fd; font-size: 1.1em;">Tools for Data Science</strong>
-    <br/>
-    <em style="color: #c9d1d9;">IBM</em>
-    <br/>
-    <span style="color: #9fef00; font-weight: 500;">2021</span>
-  </div>
+<div align="center">
+
+| Course | Institution | Year |
+|--------|-------------|------|
+| Foundation Level - Data Science and Programming | IIT Madras | 2024 |
+| What is Data Science? | IBM | 2021 |  |
+| Tools for Data Science | IBM | 2021 |
+
 </div>
+
 
 ## 💼 Professional Experience
 As a Data Science Intern at DivSriVin Technologies (Jan-Feb 2025), I developed a Customer Churn Prediction system achieving 99.99% accuracy. Implemented ML models (KNN, SVM) and automated prediction pipeline using Python, scikit-learn, and pandas.
@@ -82,6 +63,7 @@ As a Data Science Intern at DivSriVin Technologies (Jan-Feb 2025), I developed a
 <div align="center">
   <em>"Data is not just numbers - it's the foundation of intelligence."</em>
 </div>
+
 
 
 <!--START_SECTION:waka-->
