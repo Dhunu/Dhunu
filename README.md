@@ -22,38 +22,38 @@ I'm a results-driven Data Scientist and Analytics Expert, leveraging cutting-edg
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,mysql,mongodb,aws,gcp,docker,git" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,mongodb,aws,gcp,docker,git" />
 </div>
 
 ## 🎓 Professional Development
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; gap: 20px; margin: 0 auto; max-width: 1200px;">
-  <div style="background-color: #1a1b27; border-radius: 10px; padding: 15px; width: 300px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="IIT Madras" style="margin-bottom: 10px;"/>
+<div style="display: flex; flex-direction: column; align-items: center; justify-items: center; gap: 20px; margin: 0 auto; max-width: 600px;">
+  <div style="background-color: #1a1b27; border-radius: 10px; padding: 20px; width: 100%; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="IIT Madras" style="margin-bottom: 15px;"/>
     <br/>
-    <strong style="color: #70a5fd;">Foundation Level - Data Science and Programming</strong>
+    <strong style="color: #70a5fd; font-size: 1.1em;">Foundation Level - Data Science and Programming</strong>
     <br/>
-    <em>IIT Madras</em>
+    <em style="color: #c9d1d9;">IIT Madras</em>
     <br/>
-    <span style="color: #9fef00;">2024</span>
+    <span style="color: #9fef00; font-weight: 500;">2024</span>
   </div>
-  <div style="background-color: #1a1b27; border-radius: 10px; padding: 15px; width: 300px; text-align: center;">
-    <img src="https://api.iconify.design/vscode-icons:file-type-sql.svg" width="40" height="40" alt="IBM" style="margin-bottom: 10px;"/>
+  <div style="background-color: #1a1b27; border-radius: 10px; padding: 20px; width: 100%; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <img src="https://api.iconify.design/vscode-icons:file-type-sql.svg" width="50" height="50" alt="IBM" style="margin-bottom: 15px;"/>
     <br/>
-    <strong style="color: #70a5fd;">What is Data Science?</strong>
+    <strong style="color: #70a5fd; font-size: 1.1em;">What is Data Science?</strong>
     <br/>
-    <em>IBM</em>
+    <em style="color: #c9d1d9;">IBM</em>
     <br/>
-    <span style="color: #9fef00;">2021</span>
+    <span style="color: #9fef00; font-weight: 500;">2021</span>
   </div>
-  <div style="background-color: #1a1b27; border-radius: 10px; padding: 15px; width: 300px; text-align: center;">
-    <img src="https://api.iconify.design/vscode-icons:file-type-shell.svg" width="40" height="40" alt="IBM" style="margin-bottom: 10px;"/>
+  <div style="background-color: #1a1b27; border-radius: 10px; padding: 20px; width: 100%; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <img src="https://api.iconify.design/vscode-icons:file-type-shell.svg" width="50" height="50" alt="IBM" style="margin-bottom: 15px;"/>
     <br/>
-    <strong style="color: #70a5fd;">Tools for Data Science</strong>
+    <strong style="color: #70a5fd; font-size: 1.1em;">Tools for Data Science</strong>
     <br/>
-    <em>IBM</em>
+    <em style="color: #c9d1d9;">IBM</em>
     <br/>
-    <span style="color: #9fef00;">2021</span>
+    <span style="color: #9fef00; font-weight: 500;">2021</span>
   </div>
 </div>
 
