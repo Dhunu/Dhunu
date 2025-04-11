@@ -1,63 +1,87 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhunu&label=Profile%20views&color=0e75b6&style=flat" alt="dhunu" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Data+Scientist+%26+Analytics+Expert;Machine+Learning+Specialist;Statistical+Analysis+Pro;Full-Stack+Data+Professional" alt="Typing SVG" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Angel Saikia</h1>
-<h3 align="center">A motivated Full Stack Developer from India.</h3>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhunu&label=Portfolio%20Views&color=2563eb&style=flat" alt="profile views" />
+</div>
 
-- 🧑🏻‍💻 Learning **Data Science and Programing** at *IITM*
+# 👋 Hi, I'm Angel Saikia
 
-- 🔭 I’m currently working on **NextJS !**
+> **Transforming Data into Actionable Intelligence**
 
-- 💻 All of my projects are available at [**Portfolio**](https://angelsaikia.com/)
+I'm a results-driven Data Scientist and Analytics Expert, leveraging cutting-edge machine learning and statistical analysis to solve complex business challenges. Currently advancing my expertise through the prestigious **Data Science and Programming** program at **IIT Madras**.
 
-- 💬 Ask me about **React, Next.js, Tailwind, Java, SQL, Hibernate, Spring Framework**
+## 🚀 What I Bring to the Table
 
-- 📫 How to reach me **developer@angelsaikia.com**
+- 🎯 **Proven Track Record**: Delivered a Customer Churn Prediction system with 99.99% accuracy
+- 🔬 **Technical Mastery**: Advanced proficiency in Machine Learning, Statistical Analysis, and Data Visualization
+- 📊 **Business Impact**: Transformed raw data into actionable insights driving strategic decision-making
+- 🌟 **Innovation Focus**: Constantly exploring cutting-edge technologies and methodologies
 
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1Ojl6wrmw1r6b4TdnCeq0ZvttJoy2VrhG/view?usp=sharing)
+## 🛠️ Tech Arsenal
 
-<h2 align="center">Connect with me:</h2>
-<p align="center">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,mysql,mongodb,aws,gcp,docker,git" />
+</div>
+
+## 🎓 Professional Development
+
+<div style="display: flex; flex-direction: row; justify-content: space-between; gap: 20px; margin: 0 auto; max-width: 1200px;">
+  <div style="background-color: #1a1b27; border-radius: 10px; padding: 15px; width: 300px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="IIT Madras" style="margin-bottom: 10px;"/>
+    <br/>
+    <strong style="color: #70a5fd;">Foundation Level - Data Science and Programming</strong>
+    <br/>
+    <em>IIT Madras</em>
+    <br/>
+    <span style="color: #9fef00;">2024</span>
+  </div>
+  <div style="background-color: #1a1b27; border-radius: 10px; padding: 15px; width: 300px; text-align: center;">
+    <img src="https://api.iconify.design/vscode-icons:file-type-sql.svg" width="40" height="40" alt="IBM" style="margin-bottom: 10px;"/>
+    <br/>
+    <strong style="color: #70a5fd;">What is Data Science?</strong>
+    <br/>
+    <em>IBM</em>
+    <br/>
+    <span style="color: #9fef00;">2021</span>
+  </div>
+  <div style="background-color: #1a1b27; border-radius: 10px; padding: 15px; width: 300px; text-align: center;">
+    <img src="https://api.iconify.design/vscode-icons:file-type-shell.svg" width="40" height="40" alt="IBM" style="margin-bottom: 10px;"/>
+    <br/>
+    <strong style="color: #70a5fd;">Tools for Data Science</strong>
+    <br/>
+    <em>IBM</em>
+    <br/>
+    <span style="color: #9fef00;">2021</span>
+  </div>
+</div>
+
+## 💼 Professional Experience
+As a Data Science Intern at DivSriVin Technologies (Jan-Feb 2025), I developed a Customer Churn Prediction system achieving 99.99% accuracy. Implemented ML models (KNN, SVM) and automated prediction pipeline using Python, scikit-learn, and pandas.
+
+## 🤝 Let's Connect
+
+<div align="center">
   <a href="https://www.linkedin.com/in/angel-saikia/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://discord.gg/4Y7tszW" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" />
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
-  <a href="https://www.instagram.com/saikiaangel_/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://twitter.com/AngelSaikia1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-</p>
+</div>
 
-<h2 align="center">Languages: </h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,py" />
-  </a>
-</p>
+## 📫 Get in Touch
 
-<h2 align="center">My Tech Stacks: </h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,firebase,appwrite,hibernate,maven,mysql" />
-  </a>
-</p>
+- 💼 Portfolio: [Data Science Projects](https://data-science.angelsaikia.com/)
+- 📧 Email: developer@angelsaikia.com
+- 📄 Resume: [View My Resume](https://data-science.angelsaikia.com/Angel%20Saikia%20-%20Data%20Scientist%20&%20Analyst%20Resume.pdf)
 
-<h2 align="center">Tools and Software: </h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,prisma,nodejs,netlify,vercel,postman,spring" />
-  </a>
-</p>
+---
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dhunu&theme=highcontrast&disable_animations=false&card_width=846&card_height=300)](https://git.io/streak-stats)
-
-<h2 align="center">Wakatime Stats:</h2>
-
-
+<div align="center">
+  <em>"Data is not just numbers - it's the foundation of intelligence."</em>
+</div>
 
 
 <!--START_SECTION:waka-->
