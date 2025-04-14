@@ -67,7 +67,7 @@ As a Data Science Intern at DivSriVin Technologies (Jan-Feb 2025), I developed a
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C202%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C201%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
