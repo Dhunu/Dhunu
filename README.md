@@ -73,5 +73,22 @@ As a Data Science Intern at DivSriVin Technologies (Jan-Feb 2025), I developed a
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Markdown                 2 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   30.11 % 
+TypeScript               2 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+Vue.js                   2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+Java Properties          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+HTML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+
+🔥 Editors: 
+Trae                     9 hrs 3 mins        ███████████████████████░░   91.96 % 
+VS Code                  47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+```
+
 
 <!--END_SECTION:waka-->
