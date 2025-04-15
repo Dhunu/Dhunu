@@ -67,28 +67,11 @@ As a Data Science Intern at DivSriVin Technologies (Jan-Feb 2025), I developed a
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C202%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C202%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 3 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.45 % 
-TypeScript               2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-Vue.js                   2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-Java Properties          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Git Config               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-
-🔥 Editors: 
-Trae                     10 hrs 5 mins       ███████████████████████░░   93.70 % 
-VS Code                  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-```
 
 
 <!--END_SECTION:waka-->
