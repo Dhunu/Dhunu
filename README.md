@@ -37,10 +37,6 @@ I'm a results-driven Data Scientist and Analytics Expert, leveraging cutting-edg
 
 </div>
 
-
-## 💼 Professional Experience
-As a Data Science Intern at DivSriVin Technologies (Jan-Feb 2025), I developed a Customer Churn Prediction system achieving 99.99% accuracy. Implemented ML models (KNN, SVM) and automated prediction pipeline using Python, scikit-learn, and pandas.
-
 ## 🤝 Let's Connect
 
 <div align="center">
