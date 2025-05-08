@@ -63,29 +63,11 @@ I'm a results-driven Data Scientist and Analytics Expert, leveraging cutting-edg
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C269%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C269%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    2 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   34.96 % 
-Lua                      2 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.77 % 
-TOML                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-TypeScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 57 mins       █████████████████████░░░░   82.89 % 
-Google Calendar          1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Trae                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-```
 
 
 <!--END_SECTION:waka-->
