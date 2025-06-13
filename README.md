@@ -63,27 +63,11 @@ I'm a results-driven Data Scientist and Analytics Expert, leveraging cutting-edg
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C332%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C333%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Vue.js                   4 hrs 10 mins       ████████████████░░░░░░░░░   63.85 % 
-Python                   1 hr 58 mins        ████████░░░░░░░░░░░░░░░░░   30.11 % 
-JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 32 mins       █████████████████████████   100.00 % 
-```
 
 
 <!--END_SECTION:waka-->
