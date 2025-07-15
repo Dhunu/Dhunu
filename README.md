@@ -63,29 +63,11 @@ I'm a results-driven Data Scientist and Analytics Expert, leveraging cutting-edg
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C383%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C383%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Kotlin                   1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   31.19 % 
-TOML                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Java                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-HTML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-
-🔥 Editors: 
-Android Studio           3 hrs 30 mins       ███████████████░░░░░░░░░░   61.26 % 
-VS Code                  1 hr 43 mins        ████████░░░░░░░░░░░░░░░░░   30.01 % 
-Google Calendar          30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-```
 
 
 <!--END_SECTION:waka-->
