@@ -63,7 +63,7 @@ I'm a results-driven Data Scientist and Analytics Expert, leveraging cutting-edg
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C396%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C397%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -75,11 +75,11 @@ I'm a results-driven Data Scientist and Analytics Expert, leveraging cutting-edg
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               7 hrs 34 mins       ███████████████░░░░░░░░░░   60.54 % 
-Markdown                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+TypeScript               7 hrs 21 mins       ███████████████░░░░░░░░░░   58.78 % 
+Markdown                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
 CSS                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 HTML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 🔥 Editors: 
 VS Code                  11 hrs 42 mins      ███████████████████████░░   93.61 % 
