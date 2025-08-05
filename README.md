@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Data+Scientist+%26+Analytics+Expert;Machine+Learning+Specialist;Statistical+Analysis+Pro;Full-Stack+Data+Professional" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=React+Native+Developer;Full-Stack+Engineer;IIT+Madras+Scholar;Building+Smart+and+Scalable+Apps" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -8,58 +8,82 @@
 
 # 👋 Hi, I'm Angel Saikia
 
-> **Transforming Data into Actionable Intelligence**
+> **Engineering robust software with a data-first mindset**
 
-I'm a results-driven Data Scientist and Analytics Expert, leveraging cutting-edge machine learning and statistical analysis to solve complex business challenges. Currently advancing my expertise through the prestigious **Data Science and Programming** program at **IIT Madras**.
+I'm a passionate **React Native Developer** and **Full-Stack Engineer** currently completing a **Software Engineer Trainee** internship while pursuing the prestigious **Data Science and Programming** program at **IIT Madras**. I love crafting clean UIs, writing scalable code, and bridging the gap between data and real-world products.
 
-## 🚀 What I Bring to the Table
+---
 
-- 🎯 **Proven Track Record**: Delivered a Customer Churn Prediction system with 99.99% accuracy
-- 🔬 **Technical Mastery**: Advanced proficiency in Machine Learning, Statistical Analysis, and Data Visualization
-- 📊 **Business Impact**: Transformed raw data into actionable insights driving strategic decision-making
-- 🌟 **Innovation Focus**: Constantly exploring cutting-edge technologies and methodologies
+## 🚀 What I’m Working On
+
+- 📱 **Reelax (Influencer App)** – A React Native mobile app for creators and brands
+- 🧾 **Inventory Management System** – Full-stack offline-first web app with user roles and syncing
+- 📊 **Web Analytics Platform** – Custom tracking package + dynamic React dashboard
+- 🅿️ **Vehicle Parking App V2** – Admin/User portals with real-time charts, Flask API, and Celery jobs
+
+---
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,mongodb,aws,gcp,docker,git" />
+  <img src="https://skillicons.dev/icons?i=react,vue,ts,js,python,flask,figma,git,firebase,sqlite,postgres,docker" />
 </div>
 
-## 🎓 Professional Development
+---
+
+## 🎓 Education & Certifications
 
 <div align="center">
 
-| Course | Institution | Year |
+| Program | Institution | Year |
 |--------|-------------|------|
-| Foundation Level - Data Science and Programming | IIT Madras | 2024 |
-| What is Data Science? | IBM | 2021 |  |
+| B.Sc Data Science & Programming | IIT Madras | Ongoing |
+| Software Engineer Trainee (Internship) | Reelax | 2025 |
+| Data Science Intern | DivSriVin Technologies | 2025 |
+| What is Data Science? | IBM | 2021 |
 | Tools for Data Science | IBM | 2021 |
 
 </div>
 
-## 🤝 Let's Connect
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/angel-saikia/" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhunu&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=default" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhunu&layout=compact&theme=default" alt="Top Languages" />
+</div>
+
+
+---
+
+## 🤝 Let’s Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/angel-saikia" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://discord.gg/4Y7tszW" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  <a href="mailto:angelsaikia.dev@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+  <a href="https://angelsaikia.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=webflow" alt="Portfolio" />
   </a>
 </div>
 
+---
+
 ## 📫 Get in Touch
 
-- 💼 Portfolio: [Data Science Projects](https://data-science.angelsaikia.com/)
-- 📧 Email: developer@angelsaikia.com
-- 📄 Resume: [View My Resume](https://data-science.angelsaikia.com/Angel%20Saikia%20-%20Data%20Scientist%20&%20Analyst%20Resume.pdf)
+- 🌐 Portfolio: [angelsaikia.com](https://angelsaikia.com)
+- 📧 Email: [angelsaikia.dev@gmail.com](mailto:angelsaikia.dev@gmail.com)
 
 ---
 
 <div align="center">
-  <em>"Data is not just numbers - it's the foundation of intelligence."</em>
+  <em>"Building is learning. Every app is a lesson."</em>
 </div>
-
 
 
 <!--START_SECTION:waka-->
