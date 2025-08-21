@@ -16,10 +16,11 @@ I'm a passionate **React Native Developer** and **Full-Stack Engineer** currentl
 
 ## 🚀 What I’m Working On
 
-- 📱 **Reelax (Influencer App)** – A React Native mobile app for creators and brands
-- 🧾 **Inventory Management System** – Full-stack offline-first web app with user roles and syncing
-- 📊 **Web Analytics Platform** – Custom tracking package + dynamic React dashboard
-- 🅿️ **Vehicle Parking App V2** – Admin/User portals with real-time charts, Flask API, and Celery jobs
+- 📱 **Reelax (Influencer App)** – A React Native mobile app for creators and brands  
+- 🌐 **Reelax (Creator Website)** – A PWA built with Create React App, bringing the mobile experience to the web – [creators.getreelax.com](https://creators.getreelax.com/)  
+- 🧾 **Inventory Management System** – Full-stack offline-first web app with user roles and syncing  
+- 📊 **Web Analytics Platform** – Custom tracking package + dynamic React dashboard  
+- 🅿️ **Vehicle Parking App V2** – Admin/User portals with real-time charts, Flask API, and Celery jobs  
 
 ---
 
