@@ -94,5 +94,21 @@ I'm a passionate **React Native Developer** and **Full-Stack Engineer** currentl
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               3 hrs 11 mins       █████████████░░░░░░░░░░░░   50.04 % 
+CocoaPods                1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+TypeScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 22 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
