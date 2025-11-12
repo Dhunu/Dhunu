@@ -88,29 +88,11 @@ I'm a passionate **React Native Developer** and **Full-Stack Engineer** currentl
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C774%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C778%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               26 hrs 28 mins      ████████████████████░░░░░   80.65 % 
-Other                    2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-CocoaPods                1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-XML                      1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-
-🔥 Editors: 
-VS Code                  29 hrs 51 mins      ███████████████████████░░   90.96 % 
-Google Calendar          2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Android Studio           40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-```
 
 
 <!--END_SECTION:waka-->
