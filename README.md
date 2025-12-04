@@ -39,11 +39,22 @@ I'm a passionate **React Native Developer** and **Full-Stack Engineer** currentl
 | Program | Institution | Year |
 |--------|-------------|------|
 | B.Sc Data Science & Programming | IIT Madras |Ongoing |
+| What is Data Science? | IBM | Dec 2021 |
+| Tools for Data Science | IBM | Dec 2021 |
+
+</div>
+
+---
+
+## 🎓 Experiences
+
+<div align="center">
+
+| Role | Company | Tenure |
+|--------|-------------|------|
 | Software Engineer | Reelax | Nov 2025 - Present |
 | Software Engineer Trainee (Internship) | Reelax | Jul 2025 - Oct 2025 |
 | Data Science Intern | DivSriVin Technologies | Jan 2025 - Feb 2025 |
-| What is Data Science? | IBM | Dec 2021 |
-| Tools for Data Science | IBM | Dec 2021 |
 
 </div>
 
