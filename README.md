@@ -1,62 +1,82 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=React+Native+Developer;Full-Stack+Engineer;IIT+Madras+Scholar;Building+Smart+and+Scalable+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=React+Native+Engineer;Full-Stack+Developer;IIT+Madras+Scholar;Building+Scalable+Mobile+Experiences" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhunu&label=Portfolio%20Views&color=2563eb&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dhunu&label=Profile%20Views&color=2563eb&style=flat" alt="profile views" />
 </div>
 
 # 👋 Hi, I'm Angel Saikia
 
-> **Engineering robust software with a data-first mindset**
+> **Mobile-first engineer with a strong focus on performance, architecture, and clean UI engineering.**
 
-I'm a passionate **React Native Developer** and **Full-Stack Engineer** currently completing a **Software Engineer Trainee** internship while pursuing the prestigious **Data Science and Programming** program at **IIT Madras**. I love crafting clean UIs, writing scalable code, and bridging the gap between data and real-world products.
-
----
-
-## 🚀 What I’m Working On
-
-- 📱 **Reelax (Influencer App)** – A React Native mobile app for creators and brands  
-- 🌐 **Reelax (Creator Website)** – A PWA built with Create React App, bringing the mobile experience to the web – [creators.getreelax.com](https://creators.getreelax.com/)  
-- 🧾 **Inventory Management System** – Full-stack offline-first web app with user roles and syncing - [inventa.angelsaikia.com](https://inventa.angelsaikia.com/)  
-- 📊 **Web Analytics Platform** – Custom tracking package + dynamic React dashboard  
-- 🅿️ **Vehicle Parking App V2** – Admin/User portals with real-time charts, Flask API, and Celery jobs  
+I’m a **React Native Engineer** and **Full-Stack Developer**, currently working at **Reelax** (Bridgeness Technologies).  
+I specialize in building high-performance **Android/iOS apps**, scalable web tools, and offline-first systems — backed by a data-oriented mindset from my **Data Science & Programming (IIT Madras)** degree.
 
 ---
 
-## 🛠️ Tech Arsenal
+# 🚀 What I’m Building
+
+### 📱 **Reelax – Influencer App (React Native)**
+- Recently upgraded from **RN 0.70 → 0.82** (major migration)
+- Fixed iOS & Android build issues, deprecated libraries, OTA updates
+- Implemented deep linking, S3 uploads, messaging, onboarding flows
+
+### 🌐 **Reelax Creator Web App (PWA)**
+- Full UI redesign + component system
+- Cross-device responsive & performance optimized
+
+### 🧾 **Inventory Management System**
+- Offline-first React app  
+- Local DB ↔ Remote DB sync  
+- Admin/user roles, real-time operations
+
+### 📊 **Web Analytics Platform**
+- Custom tracking npm package  
+- Dynamic React dashboard with charts + insights
+
+### 🅿️ **Vehicle Parking App V2**
+- Flask backend + Celery jobs  
+- Vue dashboards with charts, reports, and scheduling
+
+---
+
+# 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,ts,js,python,flask,figma,git,firebase,sqlite,postgres,docker" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,vue,ts,js,python,flask,git,firebase,sqlite,postgres,docker,figma" />
 </div>
 
 ---
 
-## 🎓 Education & Certifications
+# 🎓 Education & Credentials
 
 <div align="center">
 
 | Program | Institution | Year |
 |--------|-------------|------|
-| B.Sc Data Science & Programming | IIT Madras |Ongoing |
-| What is Data Science? | IBM | Dec 2021 |
-| Tools for Data Science | IBM | Dec 2021 |
+| B.Sc Data Science & Programming | IIT Madras | Ongoing |
+| IBM – What is Data Science | IBM | 2021 |
+| IBM – Tools for Data Science | IBM | 2021 |
 
 </div>
 
 ---
 
-## 🎓 Experiences
+# 💼 Experience
 
 <div align="center">
 
-| Role | Company | Tenure |
-|--------|-------------|------|
-| Software Engineer | Reelax | Nov 2025 - Present |
-| Software Engineer Trainee (Internship) | Reelax | Jul 2025 - Oct 2025 |
-| Data Science Intern | DivSriVin Technologies | Jan 2025 - Feb 2025 |
+| Role | Company | Duration |
+|------|----------|----------|
+| **Software Engineer** | Reelax | Dec 2025 – Present |
+| **Associate Software Engineer** | Reelax | Nov 2025 |
+| **Software Engineer Trainee (Intern)** | Reelax | Jul 2025 – Oct 2025 |
+| **Data Science Intern** | DivSriVin Technologies | Jan 2025 – Feb 2025 |
 
 </div>
+
+---
 
 ---
 
