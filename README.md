@@ -120,25 +120,11 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C860%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C862%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               1 hr 6 mins         ███████████████████████░░   93.76 % 
-CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-
-🔥 Editors: 
-VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
-```
 
 
 <!--END_SECTION:waka-->
