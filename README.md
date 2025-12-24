@@ -126,5 +126,20 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    6 hrs 30 mins       ██████████████████░░░░░░░   73.51 % 
+JavaScript               2 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+
+🔥 Editors: 
+Google Calendar          6 hrs 30 mins       ██████████████████░░░░░░░   73.51 % 
+VS Code                  2 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+```
+
 
 <!--END_SECTION:waka-->
