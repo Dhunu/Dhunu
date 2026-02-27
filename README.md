@@ -120,28 +120,11 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C067%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C072%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.08%20million%20lines%20of%20code-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               10 hrs 41 mins      █████████████░░░░░░░░░░░░   52.98 % 
-Kotlin                   2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-CSS                      2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-CocoaPods                1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-Bash                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-
-🔥 Editors: 
-VS Code                  17 hrs 22 mins      ██████████████████████░░░   86.08 % 
-Android Studio           2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-```
 
 
 <!--END_SECTION:waka-->
