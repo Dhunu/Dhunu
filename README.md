@@ -120,7 +120,7 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C090%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C094%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -132,13 +132,15 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               13 hrs 15 mins      ████████████████████░░░░░   81.35 % 
-CSS                      2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+JavaScript               12 hrs 44 mins      █████████████████████░░░░   83.67 % 
+CSS                      1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+TypeScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 54 mins      ████████████████████████░   97.96 % 
+Trae                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 
