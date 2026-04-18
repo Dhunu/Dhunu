@@ -132,14 +132,14 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 14 mins       ███████████░░░░░░░░░░░░░░   42.88 % 
-JSON                     57 mins             █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-JavaScript               53 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Markdown                 40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+TypeScript               53 mins             ███████████████░░░░░░░░░░   59.97 % 
+JavaScript               14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
 ```
 
 
