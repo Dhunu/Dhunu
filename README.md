@@ -120,7 +120,7 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C222%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C223%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -132,16 +132,16 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    2 hrs 42 mins       ████████████████░░░░░░░░░   63.66 % 
-Kotlin                   31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-TypeScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Swift                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Other                    3 hrs               ██████████████░░░░░░░░░░░   55.68 % 
+Kotlin                   31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Swift                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+JavaScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+TypeScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 
 🔥 Editors: 
-Google Calendar          2 hrs               ████████████░░░░░░░░░░░░░   47.00 % 
-VS Code                  1 hr 38 mins        ██████████░░░░░░░░░░░░░░░   38.49 % 
-Android Studio           37 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+VS Code                  2 hrs 47 mins       █████████████░░░░░░░░░░░░   51.64 % 
+Google Calendar          2 hrs               █████████░░░░░░░░░░░░░░░░   36.96 % 
+Android Studio           37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
 ```
 
 
