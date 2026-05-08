@@ -132,16 +132,16 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    3 hrs 11 mins       ████████████░░░░░░░░░░░░░   46.49 % 
-Swift                    43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-JavaScript               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Kotlin                   31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-CSS                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Other                    3 hrs 11 mins       ████████████░░░░░░░░░░░░░   46.94 % 
+Swift                    43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+JavaScript               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Kotlin                   31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+CSS                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 14 mins       ███████████████░░░░░░░░░░   61.89 % 
-Google Calendar          2 hrs               ███████░░░░░░░░░░░░░░░░░░   29.13 % 
-Android Studio           37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+VS Code                  4 hrs 11 mins       ███████████████░░░░░░░░░░   61.52 % 
+Google Calendar          2 hrs               ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+Android Studio           37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
 ```
 
 
