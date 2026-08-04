@@ -134,21 +134,21 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               6 hrs 1 min         ███████████████░░░░░░░░░░   61.22 % 
-Other                    1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-JavaScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-TOML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+TypeScript               6 hrs 1 min         ████████████████░░░░░░░░░   62.90 % 
+Other                    1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+JavaScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+TOML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 56 mins       ███████████████░░░░░░░░░░   60.34 % 
-Antigravity Desktop      3 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   39.66 % 
+VS Code                  5 hrs 40 mins       ███████████████░░░░░░░░░░   59.26 % 
+Antigravity Desktop      3 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   40.74 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 46 mins (99.29%)
+⏱ AI Coding Time: 9 hrs 30 mins (99.27%)
 
 ✍️ 4,144 lines written by AI, 5 lines written by hand (99.88% AI-written)
 
@@ -156,7 +156,7 @@ Antigravity Desktop      3 hrs 54 mins       ██████████░�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 60 AI Sessions, 163 AI Prompts
+🧠 59 AI Sessions, 160 AI Prompts
 
 Cursor                   5,046 lines         ████████████████████████░   97.45 % 
 Gemini                   93 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
@@ -165,7 +165,7 @@ Antigravity-Desktop      1 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.88% of written lines came from AI
-📚 Verbose Prompter — average 5,954 characters per prompt
+📚 Verbose Prompter — average 6,062 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.1% of changed lines were hand-edited
 ```
