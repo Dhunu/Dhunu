@@ -120,56 +120,9 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C674%20hrs%207%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-342%20hrs%2030%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.70%20million%20lines%20of%20code-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               5 hrs 51 mins       ██████████████░░░░░░░░░░░   54.29 % 
-JavaScript               2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-Bash                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-JSON                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Text                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-
-🔥 Editors: 
-VS Code                  7 hrs 39 mins       ██████████████████░░░░░░░   71.06 % 
-Antigravity Desktop      2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Cursor                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 10 hrs 22 mins (96.13%)
-
-✍️ 4,672 lines written by AI, 291 lines written by hand (94.14% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 67 AI Sessions, 176 AI Prompts
-
-Cursor                   5,428 lines         ███████████████████████░░   92.47 % 
-Grok                     234 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Gemini                   179 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Sonnet                   29 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 94.14% of written lines came from AI
-📄 Detailed Prompter — average 1,064 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 4.75% of changed lines were hand-edited
-```
 
 
 <!--END_SECTION:waka-->
