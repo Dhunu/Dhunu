@@ -120,9 +120,9 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C733%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C736%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-409%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-414%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -134,42 +134,41 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               13 hrs 52 mins      ████████████░░░░░░░░░░░░░   46.60 % 
-Other                    7 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   26.37 % 
-JavaScript               4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Swift                    1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Bash                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+TypeScript               14 hrs 20 mins      ████████████░░░░░░░░░░░░░   48.39 % 
+Other                    8 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   29.85 % 
+JavaScript               2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Swift                    1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Bash                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 🔥 Editors: 
-Antigravity Desktop      13 hrs 12 mins      ███████████░░░░░░░░░░░░░░   44.37 % 
-VS Code                  11 hrs 20 mins      ██████████░░░░░░░░░░░░░░░   38.12 % 
-Cursor                   5 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Agent                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Antigravity Desktop      13 hrs 34 mins      ███████████░░░░░░░░░░░░░░   45.82 % 
+VS Code                  11 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   39.69 % 
+Cursor                   4 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 27 mins (98.93%)
+⏱ AI Coding Time: 29 hrs 7 mins (98.3%)
 
-✍️ 12,507 lines written by AI, 39 lines written by hand (99.69% AI-written)
+✍️ 12,630 lines written by AI, 39 lines written by hand (99.69% AI-written)
 
-🔤 360,120 Input Tokens, 133,503 Output Tokens
+🔤 323,935 Input Tokens, 97,318 Output Tokens
 
-💵 $1.65 Estimated AI Cost This Week
+💵 $1.39 Estimated AI Cost This Week
 
-🧠 86 AI Sessions, 465 AI Prompts
+🧠 75 AI Sessions, 463 AI Prompts
 
-Composer                 8,209 lines         ███████████████░░░░░░░░░░   59.17 % 
-Cursor                   2,837 lines         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-Grok                     2,500 lines         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-Gemini                   327 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Composer                 10,484 lines        ███████████████████░░░░░░   74.83 % 
+Grok                     2,204 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Cursor                   1,322 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.69% of written lines came from AI
-📚 Verbose Prompter — average 1,575 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 1,243 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.28% of changed lines were hand-edited
 ```
 
