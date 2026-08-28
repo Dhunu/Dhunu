@@ -134,43 +134,43 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               12 hrs 28 mins      ████████████░░░░░░░░░░░░░   46.03 % 
-Other                    8 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   32.15 % 
-JavaScript               2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Swift                    1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Bash                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+TypeScript               11 hrs 2 mins       ███████████░░░░░░░░░░░░░░   44.14 % 
+Other                    8 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   34.84 % 
+Bash                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Swift                    1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+JavaScript               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 🔥 Editors: 
-Antigravity Desktop      14 hrs 26 mins      █████████████░░░░░░░░░░░░   53.31 % 
-VS Code                  7 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-Cursor                   4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Google Calendar          37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Antigravity Desktop      14 hrs 58 mins      ███████████████░░░░░░░░░░   59.80 % 
+VS Code                  6 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   27.06 % 
+Cursor                   2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Google Calendar          37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 58 mins (95.86%)
+⏱ AI Coding Time: 23 hrs 53 mins (95.44%)
 
-✍️ 6,888 lines written by AI, 39 lines written by hand (99.44% AI-written)
+✍️ 4,469 lines written by AI, 41 lines written by hand (99.09% AI-written)
 
 🔤 247,915 Input Tokens, 21,298 Output Tokens
 
 💵 $0.84 Estimated AI Cost This Week
 
-🧠 78 AI Sessions, 441 AI Prompts
+🧠 73 AI Sessions, 417 AI Prompts
 
-Composer                 4,435 lines         ███████████████░░░░░░░░░░   59.37 % 
-Grok                     1,736 lines         ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
-Cursor                   1,299 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Composer                 3,807 lines         ████████████████████░░░░░   78.43 % 
+Grok                     1,047 lines         █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.44% of written lines came from AI
-📄 Detailed Prompter — average 783 characters per prompt
+🤖 AI-Driven — 99.09% of written lines came from AI
+📄 Detailed Prompter — average 808 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.52% of changed lines were hand-edited
+🚀 High AI Trust — 0.84% of changed lines were hand-edited
 ```
 
 
