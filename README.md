@@ -134,41 +134,41 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               10 hrs 27 mins      ████████████████░░░░░░░░░   63.18 % 
-Other                    2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Swift                    1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Bash                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-Text                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+TypeScript               8 hrs 29 mins       ███████████████░░░░░░░░░░   60.82 % 
+Other                    1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Swift                    1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Bash                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Text                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 38 mins       █████████████░░░░░░░░░░░░   52.23 % 
-Antigravity Desktop      5 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   35.37 % 
-Cursor                   2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+VS Code                  8 hrs 34 mins       ███████████████░░░░░░░░░░   61.38 % 
+Antigravity Desktop      4 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   34.01 % 
+Cursor                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 26 mins (99.42%)
+⏱ AI Coding Time: 13 hrs 52 mins (99.31%)
 
-✍️ 7,023 lines written by AI, 8 lines written by hand (99.89% AI-written)
+✍️ 6,438 lines written by AI, 8 lines written by hand (99.88% AI-written)
 
-🔤 123,637 Input Tokens, 123,637 Output Tokens
+🔤 102,955 Input Tokens, 102,955 Output Tokens
 
-💵 $0.99 Estimated AI Cost This Week
+💵 $0.82 Estimated AI Cost This Week
 
-🧠 91 AI Sessions, 263 AI Prompts
+🧠 73 AI Sessions, 226 AI Prompts
 
-Composer                 5,829 lines         ██████████████████░░░░░░░   71.95 % 
-Grok                     2,272 lines         ███████░░░░░░░░░░░░░░░░░░   28.05 % 
+Composer                 5,829 lines         ███████████████████░░░░░░   77.84 % 
+Grok                     1,659 lines         ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
-📚 Verbose Prompter — average 2,710 characters per prompt
+🤖 AI-Driven — 99.88% of written lines came from AI
+📚 Verbose Prompter — average 2,367 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.12% of changed lines were hand-edited
+🚀 High AI Trust — 0.13% of changed lines were hand-edited
 ```
 
 
