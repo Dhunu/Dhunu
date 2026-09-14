@@ -134,39 +134,39 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    4 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   40.98 % 
-TypeScript               4 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   39.37 % 
-Bash                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-Kotlin                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Other                    7 hrs 4 mins        ██████████████░░░░░░░░░░░   54.70 % 
+TypeScript               4 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   33.28 % 
+Kotlin                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Git Config               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 🔥 Editors: 
-Antigravity Desktop      7 hrs 47 mins       ██████████████████░░░░░░░   70.24 % 
-VS Code                  3 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   29.76 % 
+Antigravity Desktop      9 hrs 25 mins       ██████████████████░░░░░░░   72.91 % 
+VS Code                  3 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   27.09 % 
 Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 4 mins (99.93%)
+⏱ AI Coding Time: 12 hrs 50 mins (99.23%)
 
-✍️ 5,064 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,064 lines written by AI, 1 lines written by hand (99.98% AI-written)
 
 🔤 10,511 Input Tokens, 10,511 Output Tokens
 
 💵 $0.08 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 172 AI Prompts
+🧠 47 AI Sessions, 187 AI Prompts
 
 Composer                 5,413 lines         █████████████████████████   100.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,702 characters per prompt
+🤖 AI-Driven — 99.98% of written lines came from AI
+📚 Verbose Prompter — average 1,632 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 
