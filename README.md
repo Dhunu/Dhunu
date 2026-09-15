@@ -134,39 +134,37 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    7 hrs 4 mins        ██████████████░░░░░░░░░░░   54.70 % 
-TypeScript               4 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   33.28 % 
-Kotlin                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-Git Config               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Other                    7 hrs 3 mins        █████████████████░░░░░░░░   67.29 % 
+TypeScript               2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+Kotlin                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Git Config               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Swift                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🔥 Editors: 
-Antigravity Desktop      9 hrs 25 mins       ██████████████████░░░░░░░   72.91 % 
-VS Code                  3 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   27.09 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Antigravity Desktop      9 hrs 25 mins       ██████████████████████░░░   89.88 % 
+VS Code                  1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 50 mins (99.23%)
+⏱ AI Coding Time: 10 hrs 24 mins (99.21%)
 
-✍️ 5,064 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 2,942 lines written by AI, 1 lines written by hand (99.97% AI-written)
 
-🔤 10,511 Input Tokens, 10,511 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.08 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 187 AI Prompts
+🧠 37 AI Sessions, 152 AI Prompts
 
-Composer                 5,413 lines         █████████████████████████   100.00 % 
-Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Composer                 3,107 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 1,632 characters per prompt
+🤖 AI-Driven — 99.97% of written lines came from AI
+📝 Concise Prompter — average 356 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 
