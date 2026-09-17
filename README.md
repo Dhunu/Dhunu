@@ -134,35 +134,35 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    7 hrs 3 mins        ████████████████████░░░░░   79.99 % 
-TypeScript               59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Kotlin                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Git Config               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Swift                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Other                    3 hrs 48 mins       ██████████████████░░░░░░░   72.79 % 
+TypeScript               42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Kotlin                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Swift                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 🔥 Editors: 
-Antigravity Desktop      8 hrs 17 mins       ███████████████████████░░   93.99 % 
-VS Code                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Antigravity Desktop      4 hrs 50 mins       ███████████████████████░░   92.43 % 
+VS Code                  23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 44 mins (99.06%)
+⏱ AI Coding Time: 5 hrs 12 mins (99.47%)
 
-✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 128 AI Prompts
+🧠 14 AI Sessions, 83 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 338 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 318 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
