@@ -134,21 +134,21 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    3 hrs 48 mins       ██████████████████░░░░░░░   72.79 % 
-TypeScript               42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Kotlin                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Swift                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+TypeScript               35 mins             ████████░░░░░░░░░░░░░░░░░   32.08 % 
+Other                    32 mins             ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+Kotlin                   20 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Swift                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Git Config               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
 
 🔥 Editors: 
-Antigravity Desktop      4 hrs 50 mins       ███████████████████████░░   92.43 % 
-VS Code                  23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Antigravity Desktop      1 hr 27 mins        ████████████████████░░░░░   78.70 % 
+VS Code                  23 mins             █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 12 mins (99.47%)
+⏱ AI Coding Time: 1 hr 49 mins (98.5%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -156,12 +156,12 @@ VS Code                  23 mins             ██░░░░░░░░░�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 83 AI Prompts
+🧠 7 AI Sessions, 50 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 318 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 153 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
