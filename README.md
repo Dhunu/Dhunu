@@ -126,51 +126,7 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.59%20million%20lines%20of%20code-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               11 hrs 34 mins      ███████████████░░░░░░░░░░   61.81 % 
-Markdown                 2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Text                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-HTML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-
-🔥 Editors: 
-Claude Code              12 hrs 58 mins      █████████████████░░░░░░░░   69.33 % 
-VS Code                  5 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.84 % 
-Cursor                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 18 hrs 43 mins (99.99%)
-
-✍️ 13,158 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 7,495,592 Input Tokens, 1,201,661 Output Tokens
-
-💵 $161.77 Estimated AI Cost This Week
-
-🧠 30 AI Sessions, 183 AI Prompts
-
-Opus                     7,527 lines         ██████████████░░░░░░░░░░░   56.20 % 
-Composer                 4,266 lines         ████████░░░░░░░░░░░░░░░░░   31.85 % 
-Cursor                   1,413 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Grok                     187 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 405 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.61%20million%20lines%20of%20code-blue?style=flat)
 
 
 <!--END_SECTION:waka-->
