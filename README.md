@@ -134,42 +134,42 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               12 hrs 52 mins      ███████████████░░░░░░░░░░   61.19 % 
-Markdown                 3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Other                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-Text                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-HTML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+TypeScript               11 hrs 34 mins      ███████████████░░░░░░░░░░   61.81 % 
+Markdown                 2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Text                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+HTML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 8 mins       ██████████████████░░░░░░░   71.94 % 
-VS Code                  5 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-Cursor                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Claude Code              12 hrs 58 mins      █████████████████░░░░░░░░   69.33 % 
+VS Code                  5 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+Cursor                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 53 mins (99.26%)
+⏱ AI Coding Time: 18 hrs 43 mins (99.99%)
 
-✍️ 14,573 lines written by AI, 10 lines written by hand (99.93% AI-written)
+✍️ 13,158 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,733,445 Input Tokens, 1,478,035 Output Tokens
+🔤 7,495,592 Input Tokens, 1,201,661 Output Tokens
 
-💵 $180.78 Estimated AI Cost This Week
+💵 $161.77 Estimated AI Cost This Week
 
-🧠 38 AI Sessions, 225 AI Prompts
+🧠 30 AI Sessions, 183 AI Prompts
 
-Opus                     8,942 lines         ███████████████░░░░░░░░░░   60.39 % 
-Composer                 4,266 lines         ███████░░░░░░░░░░░░░░░░░░   28.81 % 
-Cursor                   1,413 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Grok                     187 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Opus                     7,527 lines         ██████████████░░░░░░░░░░░   56.20 % 
+Composer                 4,266 lines         ████████░░░░░░░░░░░░░░░░░   31.85 % 
+Cursor                   1,413 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Grok                     187 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📝 Concise Prompter — average 351 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 405 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.13% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
