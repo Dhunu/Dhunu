@@ -134,41 +134,39 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               9 hrs 3 mins        ████████████░░░░░░░░░░░░░   48.33 % 
-Markdown                 4 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
-Other                    2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Text                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+TypeScript               6 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   40.13 % 
+Markdown                 3 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+Other                    3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Text                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Swift                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 4 mins       ████████████████░░░░░░░░░   64.45 % 
-VS Code                  4 hrs               █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
-Agent                    2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Cursor                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Claude Code              11 hrs 10 mins      ██████████████████░░░░░░░   70.23 % 
+VS Code                  3 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Agent                    1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+Antigravity Desktop      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 38 mins (99.53%)
+⏱ AI Coding Time: 15 hrs 50 mins (99.62%)
 
-✍️ 11,831 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 11,017 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 7,245,750 Input Tokens, 1,048,282 Output Tokens
+🔤 6,556,313 Input Tokens, 924,889 Output Tokens
 
-💵 $152.41 Estimated AI Cost This Week
+💵 $116.61 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 224 AI Prompts
+🧠 38 AI Sessions, 196 AI Prompts
 
-Composer                 5,507 lines         ███████████░░░░░░░░░░░░░░   44.50 % 
-Opus                     5,268 lines         ███████████░░░░░░░░░░░░░░   42.57 % 
-Cursor                   1,413 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Grok                     187 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     8,568 lines         ███████████████████░░░░░░   74.86 % 
+Composer                 2,755 lines         ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
+Sonnet                   122 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📄 Detailed Prompter — average 671 characters per prompt
+📄 Detailed Prompter — average 686 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
