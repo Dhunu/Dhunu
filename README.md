@@ -120,13 +120,58 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C791%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C791%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-481%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-482%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.61%20million%20lines%20of%20code-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               9 hrs 3 mins        ████████████░░░░░░░░░░░░░   48.33 % 
+Markdown                 4 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+Other                    2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Text                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+
+🔥 Editors: 
+Claude Code              12 hrs 4 mins       ████████████████░░░░░░░░░   64.45 % 
+VS Code                  4 hrs               █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+Agent                    2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Cursor                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 18 hrs 38 mins (99.53%)
+
+✍️ 11,831 lines written by AI, 1 lines written by hand (99.99% AI-written)
+
+🔤 7,245,750 Input Tokens, 1,048,282 Output Tokens
+
+💵 $152.41 Estimated AI Cost This Week
+
+🧠 41 AI Sessions, 224 AI Prompts
+
+Composer                 5,507 lines         ███████████░░░░░░░░░░░░░░   44.50 % 
+Opus                     5,268 lines         ███████████░░░░░░░░░░░░░░   42.57 % 
+Cursor                   1,413 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Grok                     187 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.99% of written lines came from AI
+📄 Detailed Prompter — average 671 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
+```
 
 
 <!--END_SECTION:waka-->
