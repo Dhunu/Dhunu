@@ -120,9 +120,9 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C800%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C805%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-493%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-497%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -134,44 +134,44 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   35.26 % 
-Other                    3 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
-Markdown                 2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Swift                    1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Text                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+TypeScript               7 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   41.64 % 
+Markdown                 3 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Other                    3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Swift                    2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Text                     1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 25 mins      █████████████████████░░░░   82.95 % 
-VS Code                  1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Agent                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-Cursor                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Antigravity Desktop      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Claude Code              16 hrs              █████████████████████░░░░   85.81 % 
+VS Code                  1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Agent                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Cursor                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Antigravity Desktop      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 56 mins (99.84%)
+⏱ AI Coding Time: 18 hrs 32 mins (99.44%)
 
-✍️ 9,717 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 10,988 lines written by AI, 2 lines written by hand (99.98% AI-written)
 
-🔤 4,814,094 Input Tokens, 1,107,955 Output Tokens
+🔤 7,284,487 Input Tokens, 1,383,487 Output Tokens
 
-💵 $109.79 Estimated AI Cost This Week
+💵 $157.58 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 194 AI Prompts
+🧠 49 AI Sessions, 222 AI Prompts
 
-Opus                     7,877 lines         ████████████████████░░░░░   78.39 % 
-Composer                 1,466 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Sonnet                   504 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Grok                     202 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Opus                     9,287 lines         ████████████████████░░░░░   80.94 % 
+Composer                 1,464 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Sonnet                   504 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Grok                     219 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📄 Detailed Prompter — average 831 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+🤖 AI-Driven — 99.98% of written lines came from AI
+📄 Detailed Prompter — average 766 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 
