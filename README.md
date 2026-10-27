@@ -134,39 +134,39 @@ I specialize in building high-performance **Android/iOS apps**, scalable web too
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   34.42 % 
-Other                    4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
-Markdown                 2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Swift                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+TypeScript               4 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   38.38 % 
+Other                    1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Markdown                 1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Swift                    59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+JSON                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 15 mins      ████████████████████████░   97.13 % 
-VS Code                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Claude Code              11 hrs 20 mins      ████████████████████████░   95.94 % 
+VS Code                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 42 mins (99.79%)
+⏱ AI Coding Time: 11 hrs 47 mins (99.7%)
 
-✍️ 7,483 lines written by AI, 3 lines written by hand (99.96% AI-written)
+✍️ 6,252 lines written by AI, 3 lines written by hand (99.95% AI-written)
 
-🔤 6,255,026 Input Tokens, 1,146,239 Output Tokens
+🔤 4,360,550 Input Tokens, 693,847 Output Tokens
 
-💵 $112.51 Estimated AI Cost This Week
+💵 $71.15 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 160 AI Prompts
+🧠 17 AI Sessions, 127 AI Prompts
 
-Opus                     7,009 lines         ███████████████████████░░   92.30 % 
-Sonnet                   525 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Grok                     60 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Opus                     6,133 lines         ████████████████████████░   96.63 % 
+Sonnet                   154 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Grok                     60 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 1,692 characters per prompt
+🤖 AI-Driven — 99.95% of written lines came from AI
+📚 Verbose Prompter — average 1,926 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 
