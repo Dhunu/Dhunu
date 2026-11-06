@@ -1,123 +1,86 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=React+Native+Engineer;Full-Stack+Developer;IIT+Madras+Scholar;Building+Scalable+Mobile+Experiences" alt="Typing SVG" />
-</div>
+<a href="https://angelsaikia.com">
+  <img src="https://angelsaikia.com/opengraph-image.png" alt="Angel Saikia, mobile and frontend engineer" width="100%" />
+</a>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhunu&label=Profile%20Views&color=2563eb&style=flat" alt="profile views" />
-</div>
+# Hi, I'm Angel Saikia.
 
-# 👋 Hi, I'm Angel Saikia
+**Mobile & frontend engineer.**
 
-> **Mobile-first engineer with a strong focus on performance, architecture, and clean UI engineering.**
+At [Reelax](https://getreelax.com), a creator-brand marketplace, I'm the main engineer on its React Native creator app, lead the frontend of its new Next.js brands app, and have shipped across six production apps. I also built the backend for [Twik](https://twik.app), a voice keyboard that passed half a million accounts in ten weeks, and work across its Android, iOS and macOS apps.
 
-I’m a **React Native Engineer** and **Full-Stack Developer**, currently working at **Reelax** (Bridgeness Technologies).  
-I specialize in building high-performance **Android/iOS apps**, scalable web tools, and offline-first systems — backed by a data-oriented mindset from my **Data Science & Programming (IIT Madras)** degree.
+- **Status:** Open to mobile and frontend roles. At Reelax since July 2025.
+- **Work:** Remote preferred, or relocating to South India. Nagaon, Assam (IST).
+- **Stack:** React Native, React, Next.js, Node.
 
----
+[Portfolio](https://angelsaikia.com) · [Résumé](https://angelsaikia.com/Angel%20Saikia%20-%20CV.pdf) · [LinkedIn](https://linkedin.com/in/angel-saikia) · [Email](mailto:angelsaikia.dev@gmail.com)
 
-# 🚀 What I’m Building
+| 6 | 10K+ | 534,444 | 125,110 | 7.9M |
+|:--|:--|:--|:--|:--|
+| apps at Reelax | Reelax creator app installs on Google Play | Twik accounts on my backend by 5 Nov 2026 | Twik signups on its biggest day | Twik backend requests, August to October |
 
-### 📱 **Reelax – Influencer App (React Native)**
-- Recently upgraded from **RN 0.70 → 0.82** (major migration)
-- Fixed iOS & Android build issues, deprecated libraries, OTA updates
-- Implemented deep linking, S3 uploads, messaging, onboarding flows
+## Selected work
 
-### 🌐 **Reelax Creator Web App (PWA)**
-- Full UI redesign + component system
-- Cross-device responsive & performance optimized
+### [Reelax, six production apps](https://getreelax.com) · 2025 to now
 
-### 🧾 **Inventory Management System**
-- Offline-first React app  
-- Local DB ↔ Remote DB sync  
-- Admin/user roles, real-time operations
+Led the creator app's move from React Native 0.70 to 0.82 with RevoPush OTA updates and Sentry crash reporting. Built the first version of the Next.js marketing site, which launched about 70,000 pages in about a week. On [Spotlyt](https://spotlyt.in), an AI influencer-marketing product, I'm the top committer on the web app and its delivery tool.
 
-### 📊 **Web Analytics Platform**
-- Custom tracking npm package  
-- Dynamic React dashboard with charts + insights
+`React Native` `Next.js` `Server Actions` `RevoPush` `Sentry`
 
-### 🅿️ **Vehicle Parking App V2**
-- Flask backend + Celery jobs  
-- Vue dashboards with charts, reports, and scheduling
+[App Store](https://apps.apple.com/in/app/reelax-influencer-app/id6464481879) · [Google Play](https://play.google.com/store/apps/details?id=com.reelax.influencer) · [Read: the 0.82 migration](https://angelsaikia.com/notes/react-native-0-82-migration)
 
----
+### [Reelax for brands](https://brands.getreelax.com) · 2025 to 2026
 
-# 🛠️ Tech Stack
+A data-heavy web app where brands find creators, run campaigns and pay for them. I was its top committer from December 2025 and now lead the frontend of its Next.js rewrite, Brands V2.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,vue,ts,js,python,flask,git,firebase,sqlite,postgres,docker,figma" />
-</div>
+`React` `Redux` `Recharts` `Chart.js`
 
----
+### [Twik, a keyboard you talk to](https://twik.app) · 2026 to now
 
-# 🎓 Education & Credentials
+I built the Fastify backend, moved dictation and sign-in in the Android and iOS apps onto it, added subscription sync, and I'm the top contributor to the macOS app. 534,444 accounts from the August public launch to 5 November 2026, 125,110 of them on the biggest day.
 
-<div align="center">
+`Fastify` `TypeScript` `MongoDB Atlas` `Kotlin` `SwiftUI` `RevenueCat`
 
-| Program | Institution | Year |
-|--------|-------------|------|
-| B.Sc Data Science & Programming | IIT Madras | Ongoing |
-| IBM – What is Data Science | IBM | 2021 |
-| IBM – Tools for Data Science | IBM | 2021 |
+[App Store](https://apps.apple.com/us/app/twik-ai-voice-keyboard/id6756659600) · [Google Play](https://play.google.com/store/apps/details?id=com.twikapp.android) · [Read: launch week](https://angelsaikia.com/notes/twik-launch-week)
 
-</div>
+### [GitOS, a git client that picks the right account](https://github.com/Dhunu/gitOS) · Nov 2026
 
----
+A native macOS client where folder rules choose the GitHub account, and each git command gets its token and identity through per-command flags, so `~/.gitconfig` is never touched. Built solo in three days with AI coding assistance.
 
-# 💼 Experience
+`Swift` `SwiftUI` `git CLI` `GitHub API` `Claude API`
 
-<div align="center">
+[Read: how the switching works](https://angelsaikia.com/notes/gitos-account-switching)
 
-| Role | Company | Duration |
-|------|----------|----------|
-| **Software Engineer** | Reelax | Dec 2025 – Present |
-| **Associate Software Engineer** | Reelax | Nov 2025 |
-| **Software Engineer Trainee (Intern)** | Reelax | Jul 2025 – Oct 2025 |
-| **Data Science Intern** | DivSriVin Technologies | Jan 2025 – Feb 2025 |
+## Engineering notes
 
-</div>
+- [Switching GitHub accounts without touching ~/.gitconfig](https://angelsaikia.com/notes/gitos-account-switching)
+- [What broke when 125k people signed up in a day](https://angelsaikia.com/notes/twik-launch-week)
+- [Keeping API payloads out of the browser with Server Actions](https://angelsaikia.com/notes/server-actions-without-leaking-payloads)
+- [Notes from moving a production app to React Native 0.82](https://angelsaikia.com/notes/react-native-0-82-migration)
 
----
+## Skills
 
----
+| | |
+|:--|:--|
+| **Mobile** | React Native, Kotlin, SwiftUI, Hermes, Fabric, RevoPush OTA, Gradle / NDK, Xcode, RevenueCat |
+| **Web** | Next.js, React, TypeScript, Tailwind, Motion, Server Actions, Redux, shadcn/ui |
+| **Backend** | Node.js, Fastify, MongoDB |
+| **Tooling** | Sentry, Cloud Build |
 
-## 📈 GitHub Stats
+## The journey
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhunu&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=default" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhunu&layout=compact&theme=default" alt="Top Languages" />
-</div>
+| | |
+|:--|:--|
+| **2021** | Started building. Courses, side projects, and a lot of broken builds. |
+| **2023** | First paid work. Full-stack web apps for real users. |
+| **2025** | Joined Reelax. Trainee in July, Software Engineer by December. |
+| **2026** | Launched Twik. Backend owner, 125,110 signups on the biggest day, over 500k since. |
+| **Next** | Your team? Looking for a mobile or frontend engineering role. |
 
+## Say hello
+
+Hiring for a mobile or frontend role, or building something? Write to me at [angelsaikia.dev@gmail.com](mailto:angelsaikia.dev@gmail.com). I usually reply within a day.
 
 ---
-
-## 🤝 Let’s Connect
-
-<div align="center">
-  <a href="https://linkedin.com/in/angel-saikia" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:angelsaikia.dev@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-  <a href="https://angelsaikia.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=webflow" alt="Portfolio" />
-  </a>
-</div>
-
----
-
-## 📫 Get in Touch
-
-- 🌐 Portfolio: [angelsaikia.com](https://angelsaikia.com)
-- 📧 Email: [angelsaikia.dev@gmail.com](mailto:angelsaikia.dev@gmail.com)
-
----
-
-<div align="center">
-  <em>"Building is learning. Every app is a lesson."</em>
-</div>
-
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C827%20hrs%2038%20mins-blue?style=flat)
