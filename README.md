@@ -1,86 +1,66 @@
 <a href="https://angelsaikia.com">
-  <img src="https://angelsaikia.com/opengraph-image.png" alt="Angel Saikia, mobile and frontend engineer" width="100%" />
+  <img src="assets/profile/hero.svg" alt="Hi, I'm Angel Saikia. Mobile and frontend engineer." width="100%" />
 </a>
-
-# Hi, I'm Angel Saikia.
-
-**Mobile & frontend engineer.**
 
 At [Reelax](https://getreelax.com), a creator-brand marketplace, I'm the main engineer on its React Native creator app, lead the frontend of its new Next.js brands app, and have shipped across six production apps. I also built the backend for [Twik](https://twik.app), a voice keyboard that passed half a million accounts in ten weeks, and work across its Android, iOS and macOS apps.
 
-- **Status:** Open to mobile and frontend roles. At Reelax since July 2025.
-- **Work:** Remote preferred, or relocating to South India. Nagaon, Assam (IST).
-- **Stack:** React Native, React, Next.js, Node.
+<p>
+  <a href="https://angelsaikia.com"><img src="https://img.shields.io/badge/Portfolio-efe9df?style=for-the-badge&logoColor=0e0d0c&labelColor=efe9df&color=efe9df" alt="Portfolio" /></a>
+  <a href="https://angelsaikia.com/Angel%20Saikia%20-%20CV.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-ff6a3d?style=for-the-badge" alt="Résumé" /></a>
+  <a href="https://linkedin.com/in/angel-saikia"><img src="https://img.shields.io/badge/LinkedIn-191816?style=for-the-badge&logo=linkedin&logoColor=efe9df" alt="LinkedIn" /></a>
+  <a href="mailto:angelsaikia.dev@gmail.com"><img src="https://img.shields.io/badge/Email_me-191816?style=for-the-badge&logo=gmail&logoColor=efe9df" alt="Email me" /></a>
+</p>
 
-[Portfolio](https://angelsaikia.com) · [Résumé](https://angelsaikia.com/Angel%20Saikia%20-%20CV.pdf) · [LinkedIn](https://linkedin.com/in/angel-saikia) · [Email](mailto:angelsaikia.dev@gmail.com)
+<img src="assets/profile/stats.svg" alt="6 apps at Reelax; 10K+ Reelax creator app installs on Google Play; 534,444 Twik accounts on my backend by 5 Nov 2026; 125,110 Twik signups on its biggest day; 7.9M Twik backend requests, August to October" width="100%" />
 
-| 6 | 10K+ | 534,444 | 125,110 | 7.9M |
-|:--|:--|:--|:--|:--|
-| apps at Reelax | Reelax creator app installs on Google Play | Twik accounts on my backend by 5 Nov 2026 | Twik signups on its biggest day | Twik backend requests, August to October |
+<br />
 
-## Selected work
+<img src="assets/profile/head-work.svg" alt="Selected work: Things I've built." width="100%" />
 
-### [Reelax, six production apps](https://getreelax.com) · 2025 to now
+<table>
+  <tr>
+    <td width="50%"><a href="https://getreelax.com"><img src="assets/profile/project-01.svg" alt="Reelax, six production apps" width="100%" /></a></td>
+    <td width="50%"><a href="https://brands.getreelax.com"><img src="assets/profile/project-02.svg" alt="Reelax for brands" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td><sub><a href="https://apps.apple.com/in/app/reelax-influencer-app/id6464481879">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.reelax.influencer">Google Play</a> · <a href="https://spotlyt.in">Spotlyt</a> · <a href="https://angelsaikia.com/notes/react-native-0-82-migration">Read: the 0.82 migration</a></sub></td>
+    <td><sub><a href="https://brands.getreelax.com">brands.getreelax.com</a> · <a href="https://angelsaikia.com/notes/server-actions-without-leaking-payloads">Read: the Brands V2 data layer</a></sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://twik.app"><img src="assets/profile/project-03.svg" alt="Twik, a keyboard you talk to" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/Dhunu/gitOS"><img src="assets/profile/project-04.svg" alt="GitOS, a git client that picks the right account" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td><sub><a href="https://apps.apple.com/us/app/twik-ai-voice-keyboard/id6756659600">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.twikapp.android">Google Play</a> · <a href="https://angelsaikia.com/notes/twik-launch-week">Read: launch week</a></sub></td>
+    <td><sub><a href="https://github.com/Dhunu/gitOS">Source</a> · <a href="https://angelsaikia.com/notes/gitos-account-switching">Read: how the switching works</a></sub></td>
+  </tr>
+</table>
 
-Led the creator app's move from React Native 0.70 to 0.82 with RevoPush OTA updates and Sentry crash reporting. Built the first version of the Next.js marketing site, which launched about 70,000 pages in about a week. On [Spotlyt](https://spotlyt.in), an AI influencer-marketing product, I'm the top committer on the web app and its delivery tool.
-
-`React Native` `Next.js` `Server Actions` `RevoPush` `Sentry`
-
-[App Store](https://apps.apple.com/in/app/reelax-influencer-app/id6464481879) · [Google Play](https://play.google.com/store/apps/details?id=com.reelax.influencer) · [Read: the 0.82 migration](https://angelsaikia.com/notes/react-native-0-82-migration)
-
-### [Reelax for brands](https://brands.getreelax.com) · 2025 to 2026
-
-A data-heavy web app where brands find creators, run campaigns and pay for them. I was its top committer from December 2025 and now lead the frontend of its Next.js rewrite, Brands V2.
-
-`React` `Redux` `Recharts` `Chart.js`
-
-### [Twik, a keyboard you talk to](https://twik.app) · 2026 to now
-
-I built the Fastify backend, moved dictation and sign-in in the Android and iOS apps onto it, added subscription sync, and I'm the top contributor to the macOS app. 534,444 accounts from the August public launch to 5 November 2026, 125,110 of them on the biggest day.
-
-`Fastify` `TypeScript` `MongoDB Atlas` `Kotlin` `SwiftUI` `RevenueCat`
-
-[App Store](https://apps.apple.com/us/app/twik-ai-voice-keyboard/id6756659600) · [Google Play](https://play.google.com/store/apps/details?id=com.twikapp.android) · [Read: launch week](https://angelsaikia.com/notes/twik-launch-week)
-
-### [GitOS, a git client that picks the right account](https://github.com/Dhunu/gitOS) · Nov 2026
-
-A native macOS client where folder rules choose the GitHub account, and each git command gets its token and identity through per-command flags, so `~/.gitconfig` is never touched. Built solo in three days with AI coding assistance.
-
-`Swift` `SwiftUI` `git CLI` `GitHub API` `Claude API`
-
-[Read: how the switching works](https://angelsaikia.com/notes/gitos-account-switching)
-
-## Engineering notes
-
-- [Switching GitHub accounts without touching ~/.gitconfig](https://angelsaikia.com/notes/gitos-account-switching)
-- [What broke when 125k people signed up in a day](https://angelsaikia.com/notes/twik-launch-week)
-- [Keeping API payloads out of the browser with Server Actions](https://angelsaikia.com/notes/server-actions-without-leaking-payloads)
-- [Notes from moving a production app to React Native 0.82](https://angelsaikia.com/notes/react-native-0-82-migration)
-
-## Skills
+<img src="assets/profile/head-notes.svg" alt="Notes: Engineering notes." width="100%" />
 
 | | |
 |:--|:--|
-| **Mobile** | React Native, Kotlin, SwiftUI, Hermes, Fabric, RevoPush OTA, Gradle / NDK, Xcode, RevenueCat |
-| **Web** | Next.js, React, TypeScript, Tailwind, Motion, Server Actions, Redux, shadcn/ui |
-| **Backend** | Node.js, Fastify, MongoDB |
-| **Tooling** | Sentry, Cloud Build |
+| `GitOS` | [Switching GitHub accounts without touching ~/.gitconfig](https://angelsaikia.com/notes/gitos-account-switching) |
+| `Twik` | [What broke when 125k people signed up in a day](https://angelsaikia.com/notes/twik-launch-week) |
+| `Next.js` | [Keeping API payloads out of the browser with Server Actions](https://angelsaikia.com/notes/server-actions-without-leaking-payloads) |
+| `React Native` | [Notes from moving a production app to React Native 0.82](https://angelsaikia.com/notes/react-native-0-82-migration) |
 
-## The journey
+<img src="assets/profile/head-skills.svg" alt="Skills: What I work with." width="100%" />
 
-| | |
-|:--|:--|
-| **2021** | Started building. Courses, side projects, and a lot of broken builds. |
-| **2023** | First paid work. Full-stack web apps for real users. |
-| **2025** | Joined Reelax. Trainee in July, Software Engineer by December. |
-| **2026** | Launched Twik. Backend owner, 125,110 signups on the biggest day, over 500k since. |
-| **Next** | Your team? Looking for a mobile or frontend engineering role. |
+<img src="assets/profile/skills.svg" alt="Mobile: React Native, Kotlin, SwiftUI, Hermes, Fabric, RevoPush OTA, Gradle / NDK, Xcode, RevenueCat. Web: Next.js, React, TypeScript, Tailwind, Motion, Server Actions, Redux, shadcn/ui. Backend: Node.js, Fastify, MongoDB. Tooling: Sentry, Cloud Build." width="100%" />
 
-## Say hello
+<img src="assets/profile/head-journey.svg" alt="Journey: How I got here." width="100%" />
 
-Hiring for a mobile or frontend role, or building something? Write to me at [angelsaikia.dev@gmail.com](mailto:angelsaikia.dev@gmail.com). I usually reply within a day.
+<img src="assets/profile/journey.svg" alt="2021: Started building. 2023: First paid work. 2025: Joined Reelax, trainee in July, Software Engineer by December. 2026: Launched Twik, backend owner, 125,110 signups on the biggest day. Next: your team?" width="100%" />
 
----
+<br />
+
+<a href="mailto:angelsaikia.dev@gmail.com">
+  <img src="assets/profile/contact.svg" alt="Say hello. Hiring for a mobile or frontend role, or building something? Email angelsaikia.dev@gmail.com. I usually reply within a day." width="100%" />
+</a>
+
+<details>
+<summary><sub>Dev metrics, updated automatically</sub></summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C827%20hrs%2038%20mins-blue?style=flat)
@@ -134,3 +114,5 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+</details>
